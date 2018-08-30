@@ -38,23 +38,18 @@
             "className": "fa fa-twitter"
         }]
     },
+
     "resume":
     {
         "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
         "education": [
         {
             "school": "University of California, Davis",
-            "degree": "Biomedical Engineering (B.S.)",
-            "degree": "Biomedical Engineering (B.S.)",
+            "degree": ["Biomedical Engineering (B.S.)","English (B.A.)"],
             "graduated": "June 2021",
             "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
-        },
-        {
-            "school": "University of California, Davis",
-            "degree": "English (B.A.)",
-            "graduated": "June 2021",
-            "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
-        }],
+        }
+        ],
         "work": [
         {
             "company": "Awesome Design Studio",
@@ -145,3 +140,4 @@
         }]
     }
 }
+
