@@ -47,29 +47,47 @@
             "school": "University of California, Davis",
             "degree": ["Biomedical Engineering (B.S.)","English (B.A.)"],
             "graduated": "June 2021",
-            "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+            "description": "Synthetic Biology Club, Society of Women Engineers, Pre-Law Association."
         }
         ],
         "work": [
         {
-            "company": "Awesome Design Studio",
-            "title": "Senior UX God ",
-            "years": "March 2010 - Present",
-            "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+            "company": "remote.it",
+            "title": "Technical Writing Intern",
+            "years": "June 2018 - Present",
+            "description": "Wrote instructions for bulk scripts feature, edited technical documentation about application build-up, performed data analysis of user and site traffic with Google Analytics."
         },
         {
-            "company": "Super Cool Studio",
-            "title": "Junior bug fixer",
-            "years": "March 2007 - February 2010",
-            "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+            "company": "The California Aggie",
+            "title": "Copy Editor",
+            "years": "November 2017 – Present",
+            "description": "Edited copy with the AP Style Guide, composed campus news stories. Proofread 25 articles per week, wrote one article per week."
+        },
+        {
+            "company": "Fabbro, Moore & Associates, Inc.",
+            "title": "Research Assistant",
+            "years": "June 2014 – Present",
+            "description": "Wrote appraisal reports about valuations of clients' properties, conducted research into properties and local real estate markets, executive assistance (scheduling meetings, taking phone messages)."
+        },
+        {
+            "company": "Palo Alto Housing Corporation",
+            "title": "Marketing Intern",
+            "years": "June 2016 – August 2016",
+            "description": "Launched client interview protocol for company outreach project, composed news briefs about company's property acquisitions."
+        },
+        {
+            "company": "The Stanford Daily",
+            "title": "Intern Reporter",
+            "years": "June 2016 – August 2016",
+            "description": "Penned news articles about campus events and faculty, interviewed Stanford faculty to gather information for articles."
         }],
         "skills": [
         {
-            "name": "Git",
+            "name": "climbing",
             "level": "60%"
         },
         {
-            "name": "Illustrator",
+            "name": "eating",
             "level": "55%"
         },
         {
