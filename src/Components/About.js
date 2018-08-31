@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import resumeURL from "../Jacqueline Moore Resume.pdf"
+// import resumeURL from "../assets/Jacqueline Moore Resume.pdf"
 
 class About extends Component {
     render() {
@@ -36,7 +36,7 @@ class About extends Component {
                             </div>
                             <div className="columns download">
                                 <p>
-                                    <a href={resumeURL} className="button" download>
+                                    <a href="Jacqueline Moore Resume.pdf" className="button" download>
                                         <i className="fa fa-download"/>Download Resume
                                     </a>
                                 </p>
