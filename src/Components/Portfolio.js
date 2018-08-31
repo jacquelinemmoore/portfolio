@@ -24,18 +24,14 @@ class Portfolio extends Component {
         }
 
         return (
-            <section id="portfolio">
-
-                <div className="row">
-
-                    <div className="twelve columns collapsed">
-                        <h1>Read My Writing</h1>
-                        <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
-                            {projects}
-                        </div>
+            <div className="portfolio row">
+                <div className="twelve columns collapsed">
+                    <h1>Read My Writing</h1>
+                    <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
+                        {projects}
                     </div>
                 </div>
-            </section>
+            </div>
         );
     }
 }
