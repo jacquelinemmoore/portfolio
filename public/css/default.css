@@ -455,6 +455,10 @@ img {
 img.pull-right { margin: 12px 0px 0px 18px; }
 img.pull-left { margin: 12px 18px 0px 0px; }
 
+#image-gallery img {
+    height: 100%;
+}
+
 /*  6. Buttons  --------------------------------------------------------- */
 
 .button,
