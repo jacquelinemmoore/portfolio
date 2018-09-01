@@ -141,6 +141,17 @@ header .scrolldown a:hover { color: #11ABB0; }
    left: 0;
    top: 0;
 }
+
+@media only screen and (max-width: 1024px) {
+   ul#nav li a {
+      color: #fff !important;
+   }
+
+   .opaque {
+      background: rgba(0,0,0,0) !important;
+   }
+}
+
 .opaque {
     background-color: #333;
     color: #fff !important;
@@ -421,22 +432,22 @@ ul#nav li.current a { color: #F06000 !important; }
 /* e. Portfolio Section
 /* ------------------------------------------------------------------ */
 
-#works {
+#portfolio {
     background: #ebeeee;
     padding-top: 90px;
     /*padding-bottom: 72px;*/
     overflow: hidden;
 }
 
-#portfolio {
+.portfolio {
    /*background: #ebeeee;*/
    /*padding-top: 90px;*/
    /*padding-bottom: 60px;*/
-    margin-bottom: 48px;
+    margin-bottom: 48px !important;
     padding-bottom: 24px;
     border-bottom: 1px solid #cbcbcb;
 }
-#works h1 {
+#portfolio h1 {
    font: 15px/24px 'opensans-semibold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 1px;
