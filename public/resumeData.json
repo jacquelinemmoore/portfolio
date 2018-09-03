@@ -115,9 +115,9 @@
     {
         "projects": [
         {
-            "title": "Technical Writing",
-            "category": "A manual for executing general bulk scripts using remote.it.",
-            "image": "canadian-wanderlust.jpg",
+            "title": "Bulk Scripts Manual",
+            "category": "Technical Writing",
+            "image": "bulk scripting.jpg",
             "url": "https://github.com/remoteit/documentation/blob/master/remote.it%20Bulk%20Scripting.pdf"
         },
         {
