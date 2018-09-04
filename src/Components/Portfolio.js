@@ -4,6 +4,12 @@ class Portfolio extends Component {
     render() {
 
         if (this.props.data) {
+
+            var columnClassName = (this.props.data.projects.length < 7 ||
+                this.props.data.projects.length === 9)
+                    ? "bgrid-thirds"
+                    : "bgrid-quarters";
+
             var projects = this.props.data.projects.map(function (projects) {
                 var projectImage = 'images/portfolio/' + projects.image;
                 return <div key={projects.title} className="columns portfolio-item">
@@ -27,7 +33,7 @@ class Portfolio extends Component {
             <div className="portfolio row">
                 <div className="twelve columns collapsed">
                     <h1>Read My Writing</h1>
-                    <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
+                    <div id="portfolio-wrapper" className={`${columnClassName} s-bgrid-thirds cf`}>
                         {projects}
                     </div>
                 </div>
