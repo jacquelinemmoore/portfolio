@@ -5,7 +5,7 @@
         "occupation": "technical writer",
         "description": "an engineer, a photographer, and a climber.",
         "image": "profilepic.jpg",
-        "bio": "I'm currently majoring in biomedical engineering and English at the Unversity of California, Davis. When I'm not studying, editing copy, or pipetting, I'm usually out climbing or snowboarding (when there's snow in Tahoe).",
+        "bio": "I'm currently majoring in biomedical engineering and English at the Unversity of California, Davis. ",
         "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
         "email": "jacmoore@ucdavis.edu",
         "phone": "(650) 759-8154",
@@ -115,34 +115,40 @@
     {
         "projects": [
         {
-            "title": "Bulk Scripts Manual",
+            "title": "MANUAL: Bulk Scripting with remote.it",
             "category": "Technical Writing",
             "image": "bulk scripting.jpg",
             "url": "https://github.com/remoteit/documentation/blob/master/remote.it%20Bulk%20Scripting.pdf"
         },
         {
-            "title": "Technical Writing",
-            "category": "(offline now) A fighting gear company I started",
-            "image": "fury-fighting-gear.jpg",
-            "url": "http://www.timbakerdev.com"
+            "title": "MANUAL: Adding Raspberry Pi to remote.it",
+            "category": "Technical Writing",
+            "image": "pi.jpg",
+            "url": "https://github.com/remoteit/documentation/blob/master/Getting%20Started%20with%20Raspberry%20Pi.pdf"
         },
         {
-            "title": "Technical Writing",
-            "category": "Website I built for a restaurant I like in Thailand",
-            "image": "original-thai-food.jpg",
-            "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+            "title": "COPY: remote.it email update for new feature",
+            "category": "Content Writing",
+            "image": "email.jpg",
+            "url": "https://www.stanforddaily.com/2016/07/27/researchers-partially-restore-vision-in-mice/"
         },
         {
-            "title": "Journalistic Writing",
-            "category": "A React based resume website template",
-            "image": "resume-website.jpg",
-            "url": "http://www.timbakerdev.com"
+            "title": "LAB REPORT: RFP Expression in Plasmids",
+            "category": "Scientific Writing",
+            "image": "cure.jpg",
+            "url": "https://docs.google.com/document/d/19nbqOGNUmIpCKJPNWd6K5H-6-geIx5n_7ZNnxkrVNBA/edit?usp=sharing"
         },
         {
-            "title": "Journalistic Writing",
-            "category": "(MVP Only) A React and Meteor based chat University project.",
-            "image": "smirkspace.jpg",
-            "url": "http://www.smirkspace.com"
+            "title": "ARTICLE: Neurobiological breakthrough at Stanford",
+            "category": "Scientific/Journalistic Writing",
+            "image": "neurobiology.jpg",
+            "url": "https://www.stanforddaily.com/2016/07/27/researchers-partially-restore-vision-in-mice/" 
+        },
+        {
+            "title": "ARTICLE: UC Davis Guggenheim Fellows",
+            "category": "Journalistic Writing",
+            "image": "guggenheim.jpg",
+            "url": "https://theaggie.org/2018/04/26/three-uc-davis-faculty-named-guggenheim-fellows/"   
         }]
     },
     "testimonials":
