@@ -12,7 +12,7 @@
     "react-scripts": "1.1.5"
   },
   "scripts": {
-    "deploy": "npm run build && aws s3 sync build/ s3://jackymoore.com && echo '🚀  Deployed!'",
+    "deploy": "npm run build && aws s3 sync build/ s3://jackymoore.com --delete && echo '🚀  Deployed!'",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
