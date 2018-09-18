@@ -31,6 +31,12 @@
             "url": "https://github.com/jacquelinemmoore",
             "className": "fa fa-github"
         },
+
+        {
+            "name": "youtube",
+            "url": "https://www.youtube.com/channel/UC6_n038SnnabhIkFsK5VPvg",
+            "className": "fa fa-youtube"
+        },
         
         {
             "name": "twitter",
@@ -130,13 +136,13 @@
             "title": "COPY: remote.it email update for new feature",
             "category": "Content Writing",
             "image": "email.jpg",
-            "url": "https://www.stanforddaily.com/2016/07/27/researchers-partially-restore-vision-in-mice/"
+            "url": "https://codepen.io/jacquelinemmoore/full/KxMJBr/"
         },
         {
             "title": "LAB REPORT: RFP Expression in Plasmids",
             "category": "Scientific Writing",
             "image": "cure.jpg",
-            "url": "https://docs.google.com/document/d/19nbqOGNUmIpCKJPNWd6K5H-6-geIx5n_7ZNnxkrVNBA/edit?usp=sharing"
+            "url": "https://docs.google.com/document/d/1S82H29yQjLJBKyRbRyPatfj3d7z4l9HYYHGGBSnhT4Y/edit?usp=sharing"
         },
         {
             "title": "ARTICLE: Neurobiological breakthrough at Stanford",
