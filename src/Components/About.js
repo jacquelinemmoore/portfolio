@@ -1,4 +1,5 @@
 import React, {Component} from 'react';
+import {isNullOrUndefined} from "util";
 // import resumeURL from "../assets/Jacqueline Moore Resume.pdf"
 
 class About extends Component {
@@ -8,11 +9,14 @@ class About extends Component {
             var name = this.props.data.name;
             var profilepic = "images/" + this.props.data.image;
             var bio = this.props.data.bio;
+            var bioList = this.props.data.bioList;
             var city = this.props.data.address.city;
             var state = this.props.data.address.state;
             var phone = this.props.data.phone;
             var email = this.props.data.email;
         }
+
+        console.log(bioList);
 
         return (
             <section id="about">
@@ -24,6 +28,11 @@ class About extends Component {
                         <h2>About Me</h2>
 
                         <p>{bio}</p>
+                        <ol>
+                                {!isNullOrUndefined(bioList)
+                                    ? bioList.map(item => <li key={item}>{item}</li>)
+                                    : null}
+                        </ol>
                         <div className="row">
                             <div className="columns contact-details">
                                 <h2>Contact Details</h2>
