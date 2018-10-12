@@ -2,10 +2,11 @@
     "main":
     {
         "name": "Jacqueline Moore",
-        "occupation": "technical writer",
-        "description": "an engineer, a photographer, and a climber.",
+        "occupation": "biomedical engineer",
+        "occupation2": "technical writer",
+        "description": "a UC Davis student, a photographer, and a climber.",
         "image": "profilepic.jpg",
-        "bio": "I'm majoring in biomedical engineering and English at the Unversity of California, Davis.",
+        "bio": "I'm majoring in biomedical engineering and English at the Unversity of California, Davis. <p> To help you get to know me a bit better, I made a list of important facts about me:",
         "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
         "email": "jacmoore@ucdavis.edu",
         "phone": "(650) 759-8154",
