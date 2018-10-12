@@ -2,10 +2,12 @@
     "main":
     {
         "name": "Jacqueline Moore",
-        "occupation": "technical writer",
-        "description": "an engineer, a photographer, and a climber.",
+        "occupation": "biomedical engineer",
+        "occupation2": "technical writer",
+        "description": "a UC Davis student, a photographer, and a climber.",
         "image": "profilepic.jpg",
-        "bio": "I'm majoring in biomedical engineering and English at the University of California, Davis.",
+        "bio": "I'm majoring in biomedical engineering and English at the Unversity of California, Davis.",
+        "listIntro": "To help you get to know me a bit better, I made a list of important facts about me:",
         "bioList": [
             "item1",
             "item2",
