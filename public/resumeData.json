@@ -4,14 +4,18 @@
         "name": "Jacqueline Moore",
         "occupation": "biomedical engineer",
         "occupation2": "technical writer",
-        "description": "a UC Davis student, a photographer, and a climber.",
+        "description": "a UC Davis undergrad, a photographer, and a climber.",
         "image": "profilepic.jpg",
-        "bio": "I'm majoring in biomedical engineering and English at the Unversity of California, Davis.",
-        "listIntro": "To help you get to know me a bit better, I made a list of important facts about me:",
+        "bio": "I'm majoring in biomedical engineering and English at the University of California, Davis.",
+        "listIntro": "To help you get to know me a bit better, I penned a list of noteworthy facts about me:",
         "bioList": [
-            "item1",
-            "item2",
-            "item3"
+            "My favorite podcast is called 'No Such Thing As A Fish.'",
+            "One of my personal goals is to climb Half Dome in Yosemite.",
+            "Another goal is to bake the perfect loaf of banana bread. This has proven to be just as formidable as Half Dome.",
+            "After I broke my right thumb in middle school, I taught myself to write with my left hand.",
+            "I figured out that I was interested in biology in 7th grade, when I wrote a report on J. Craig Venter's sequencing of his own genome.",
+            "In 11th grade, I interviewed a Stanford neuroscience professor who restored vision in blind mice. This interview sparked my interest in bioengineering.",
+            "My fastest recorded typing speed is 115 wpm. (Updated on 10/13/18)"
         ],
         "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
         "email": "jacmoore@ucdavis.edu",
@@ -58,7 +62,7 @@
             "school": "University of California, Davis",
             "degree": ["Biomedical Engineering (B.S.)","English (B.A.)"],
             "graduated": "June 2021",
-            "description": "Synthetic Biology Club, Society of Women Engineers, Pre-Law Association."
+            "description": "BioInnovation Group (previously Synthetic Biology Club), Society of Women Engineers, Pre-Law Association."
         }
         ],
         "work": [
