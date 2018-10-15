@@ -3,8 +3,7 @@
     {
         "name": "Jacqueline Moore",
         "occupation": "biomedical engineer",
-        "occupation2": "technical writer",
-        "description": "a UC Davis undergraduate, a photographer, and a climber.",
+        "description": "a technical writer, a photographer, and a climber.",
         "image": "profilepic.jpg",
         "bio": "I'm majoring in biomedical engineering and English at the University of California, Davis.",
         "listIntro": "To help you get to know me a bit better, I penned a list of cardinal facts about me:",
@@ -68,6 +67,13 @@
         ],
         "work": [
         {
+
+          "company": "UC Davis Bioinnovation Group",
+            "title": "Researcher",
+            "years": "January 2018 - Present",
+            "description": "Currently working on microfluidics project team to build a working microfluidic chip. Previously worked with vegan cheese project team to synthesize caesin (milk) proteins in yeast."
+         },
+         {   
             "company": "remote.it",
             "title": "Technical Writing Intern",
             "years": "June 2018 - Present",
@@ -80,9 +86,15 @@
             "description": "Edited copy with the AP Style Guide, composed campus news stories. Proofread 25 articles per week, wrote one article per week."
         },
         {
+            "company": "UC Davis CURE",
+            "title": "Researcher",
+            "years": "March 2018 – June 2018",
+            "description": "Created red fluorescent protein-expressing E. coli by cloning RFP gene in plasmid vector. Performed spectrophotometry tests, then analyzed data from those tests using qualitative and quantitative analyses."
+        },
+        {
             "company": "Fabbro, Moore & Associates, Inc.",
             "title": "Research Assistant",
-            "years": "June 2014 – Present",
+            "years": "June 2014 – October 2018",
             "description": "Wrote appraisal reports about valuations of clients' properties, conducted research into properties and local real estate markets, executive assistance (scheduling meetings, taking phone messages)."
         },
         {
