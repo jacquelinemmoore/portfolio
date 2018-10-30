@@ -5,7 +5,7 @@ import Lightbox from 'react-images';
 const photos = [
     { src: 'images/gallery/alaska.jpg', width: 3, height: 2 },
     { src: 'images/gallery/cathedral.JPG', width: 4, height: 3 },
-    { src: 'images/gallery/canada.jpg', width: 3, height: 4 },
+    { src: 'images/gallery/starrynight.jpg', width: 3, height: 4 },
     { src: 'images/gallery/yosemite.jpg', width: 3, height: 3 },
     { src: 'images/gallery/oxford.jpg', width: 2, height: 2 },
     { src: 'images/gallery/point reyes.jpg', width: 2, height: 1 },
