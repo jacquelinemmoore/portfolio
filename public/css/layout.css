@@ -223,6 +223,10 @@ ul#nav li.current a { color: #F06000 !important; }
    margin: 0 0 5px 0;
 
 }
+
+#about li {
+   color: #7A7A7A;
+}
 #about .profile-pic {
    position: relative;
    width: 280px;
