@@ -11,10 +11,8 @@
             "My favorite podcast is called 'No Such Thing As A Fish.'",
             "One of my personal goals is to climb Half Dome in Yosemite.",
             "Another goal is to bake the perfect loaf of banana bread. (This has proven to be just as formidable as climbing Half Dome.)",
-            "After I broke my right thumb in middle school, I taught myself how to write with my left hand.",
             "My favorite book is Ian McEwan's 'Atonement.' My least favorite book is 'The Catcher in the Rye.'",
-            "I became interested in biology in 7th grade, when I wrote a report on J. Craig Venter's sequencing of his own genome.",
-            "In 11th grade, I wrote an article about a Stanford researcher who restored vision in blind mice. My interview with him for the article sparked my interest in bioengineering, and helped guide me to where I am today: a biomedical engineering student at UC Davis."
+            "I became interested in biology in 7th grade, when I wrote a report on J. Craig Venter's sequencing of his own genome."
     
         ],
         "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
@@ -62,7 +60,7 @@
             "school": "University of California, Davis",
             "degree": ["Biomedical Engineering (B.S.)","English (B.A.)"],
             "graduated": "June 2021",
-            "description": "BioInnovation Group (previously Synthetic Biology Club), Society of Women Engineers, Pre-Law Association."
+            "description": "BioInnovation Group (previously Synthetic Biology Club), Society of Women Engineers, The California Aggie (newspaper), Pre-Law Association, UC Davis Climbing Team."
         }
         ],
         "work": [
@@ -73,17 +71,17 @@
             "years": "January 2018 - Present",
             "description": "Currently working on microfluidics project team to build a working microfluidic chip. Previously worked with vegan cheese project team to synthesize caesin (milk) proteins in yeast."
          },
-         {   
-            "company": "remote.it",
-            "title": "Technical Writing Intern",
-            "years": "June 2018 - Present",
-            "description": "Wrote instructions for bulk scripts feature, edited technical documentation about application build-up, performed data analysis of user and site traffic with Google Analytics."
-        },
         {
             "company": "The California Aggie",
             "title": "Copy Editor",
             "years": "November 2017 – Present",
-            "description": "Edited copy with the AP Style Guide, composed campus news stories. Proofread 25 articles per week, wrote one article per week."
+            "description": "Using the AP Style Guide to proofread copy — generally 25 articles per week. Previously composed campus news stories — one article per week."
+        },
+        {   
+            "company": "remote.it",
+            "title": "Technical Writing Intern",
+            "years": "June 2018 - September 2018",
+            "description": "Wrote instructions for bulk scripts feature, edited technical documentation about application build-up, performed data analysis of user and site traffic with Google Analytics."
         },
         {
             "company": "UC Davis CURE",
