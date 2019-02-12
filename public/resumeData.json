@@ -6,7 +6,7 @@
         "description": "a technical writer, a photographer, and a climber.",
         "image": "profilepic.jpg",
         "bio": "I'm a second-year undergraduate student at the University of California, Davis, where I'm double-majoring in biomedical engineering and English.",
-        "listIntro": "To help you get to know me, I penned a list of important facts that you should know about me:",
+        "listIntro": "To help you get to know me, I penned a list of important facts about myself:",
         "bioList": [
             "My favorite podcast is called 'No Such Thing As A Fish.'",
             "One of my personal goals is to climb Half Dome in Yosemite.",
@@ -59,16 +59,16 @@
             "school": "University of California, Davis",
             "degree": ["Biomedical Engineering (B.S.)","English (B.A.)"],
             "graduated": "June 2021",
-            "description": "BioInnovation Group (previously Synthetic Biology Club), Society of Women Engineers, The California Aggie (newspaper), Pre-Law Association, UC Davis Climbing Team."
+            "description": "BioInnovation Group (previously Synthetic Biology Club), Society of Women Engineers, The California Aggie (newspaper), Pre-Law Association, UC Davis Climbing Club."
         }
         ],
         "work": [
         {
 
-          "company": "UC Davis Bioinnovation Group",
-            "title": "Researcher",
+          "company": "UC Davis BioInnovation Group",
+            "title": "Project Coordinator",
             "years": "January 2018 - Present",
-            "description": "Currently working on microfluidics project team to build a working microfluidic chip. Previously worked with vegan cheese project team to synthesize caesin (milk) proteins in yeast."
+            "description": "Currently leading a sub-group of the Microfluidics Team in building a cost-effective microfluidic chip reader. Previously a member of the Vegan Cheese team, which worked on synthesizing casein proteins in yeast."
          },
         {
             "company": "The California Aggie",

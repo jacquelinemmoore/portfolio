@@ -54,7 +54,7 @@ export class ImageGallery extends Component {
     render() {
         return (
             <div id="image-gallery">
-                <h1>View my photos</h1>
+                <h1>See my photos</h1>
                 <Gallery photos={photos} onClick={this.openLightbox} />
                 <Lightbox images={photos}
                           onClose={this.closeLightbox}
