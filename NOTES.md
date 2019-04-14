@@ -12,3 +12,5 @@ A compilation of troubleshooting errors and notes
 1. Type "cd", then drag the portolio folder into Terminal from Finder.
 2. Press enter.
 
+### End commit message
+1. [esc] then wq:
