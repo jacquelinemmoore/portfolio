@@ -3,15 +3,15 @@ import Gallery from 'react-photo-gallery';
 import Lightbox from 'react-images';
 
 const photos = [
-    { src: 'images/gallery/bishop.jpg', width: 2, height: 5 },
-    { src: 'images/gallery/zach.jpg', width: 3, height: 4 },
     { src: 'images/gallery/nick.jpg', width: 2, height: 5 },
-    { src: 'images/gallery/alaska.jpg', width: 3, height: 4 },
-    { src: 'images/gallery/point reyes.jpg', width: 3, height: 4 },
-    { src: 'images/gallery/yosemite.jpg', width: 3, height: 5 },
-    { src: 'images/gallery/french toast.jpg', width: 1, height: 1 },
-    { src: 'images/gallery/cathedral.jpg', width: 1, height: 1 },
-    { src: 'images/gallery/nootka2.jpg', width: 1, height: 1 }
+    { src: 'images/gallery/zach.jpg', width: 3, height: 4 },
+    { src: 'images/gallery/bishop.jpg', width: 2, height: 5 },
+    { src: 'images/gallery/alaska.jpg', width: 2, height: 4 },
+    { src: 'images/gallery/point reyes.jpg', width: 2, height: 4 },
+    { src: 'images/gallery/nootka2.jpg', width: 2, height: 4 },
+    { src: 'images/gallery/french toast.jpg', width: 2, height: 4 },
+    { src: 'images/gallery/cathedral.jpg', width: 3, height: 2 },
+    { src: 'images/gallery/reyes.jpg', width: 3, height: 2 }
 ];
 
 
