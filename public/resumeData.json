@@ -58,17 +58,24 @@
         {
             "school": "University of California, Davis",
             "degree": ["Biomedical Engineering (B.S.)","English (B.A.)"],
-            "graduated": "June 2021",
+            "graduated": "December 2021",
             "description": "BioInnovation Group (previously Synthetic Biology Club), Society of Women Engineers, The California Aggie (newspaper), Pre-Law Association, UC Davis Climbing Club."
         }
         ],
         "work": [
         {
 
+          "company": "Salesforce",
+            "title": "Technical Writing Intern",
+            "years": "June 2019 - Present",
+            "description": "Composing user interface text for Einstein Analytics, Salesforce’s data analysis software. Also using Einstein Analytics to create interactive customer support resources."
+         },
+        {
+
           "company": "UC Davis BioInnovation Group",
-            "title": "Project Coordinator",
+            "title": "Chief Content Officer & Microfluidics Team Lead",
             "years": "January 2018 - Present",
-            "description": "Currently leading a sub-group of the Microfluidics Team in building a cost-effective microfluidic chip reader. Previously a member of the Vegan Cheese team, which worked on synthesizing casein proteins in yeast."
+            "description": "As CCO, created new design, pages, and content for the company website. Revamping the onboarding process for new researchers. As Team Lead, currently co-leading the Microfluidics Team in building a cost-effective microfluidic chip reader. Previously a member of the Vegan Cheese team, which worked on synthesizing casein proteins in yeast."
          },
         {
             "company": "The California Aggie",
@@ -105,6 +112,12 @@
             "title": "Intern Reporter",
             "years": "June 2016 – August 2016",
             "description": "Penned news articles about campus events and faculty, interviewed Stanford faculty to gather information for articles."
+        },
+        {
+            "company": "The Arthur Morgan Institute for Community Solutions",
+            "title": "Research Intern",
+            "years": "June 2015 – June 2015",
+            "description": "Conducted research into the Keystone XL Pipeline to assist other interns in writing a grant about tar sands oil pipelines. Helped revamp the company’s website, communitysolution.org. (The site  has since been updated.)"
         }],
         "skills": [
         {
