@@ -7,10 +7,10 @@ const photos = [
     { src: 'images/gallery/zach.jpg', width: 3, height: 4 },
     { src: 'images/gallery/hannah.jpg', width: 2, height: 5 },
     { src: 'images/gallery/alaska.jpg', width: 2, height: 4 },
-    { src: 'images/gallery/alaska 2.jpg', width: 2, height: 4 },
-    { src: 'images/gallery/alaska 3.jpg', width: 2, height: 4 },
+    { src: 'images/gallery/ice.jpg', width: 2, height: 4 },
+    { src: 'images/gallery/mtn.jpg', width: 2, height: 4 },
     { src: 'images/gallery/marcus.jpg', width: 2, height: 5 },
-    { src: 'images/gallery/david 1.jpg', width: 2, height: 5 },
+    { src: 'images/gallery/david.jpg', width: 2, height: 5 },
     { src: 'images/gallery/lucia.jpg', width: 3, height: 4 }
 ];
 
