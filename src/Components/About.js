@@ -11,13 +11,13 @@ class About extends Component {
             var bio = this.props.data.bio;
             var listIntro = this.props.data.listIntro;
             var bioList = this.props.data.bioList;
-            var city = this.props.data.address.city;
-            var state = this.props.data.address.state;
-            var phone = this.props.data.phone;
+            
+
+            
             var email = this.props.data.email;
         }
 
-        console.log(bioList);
+
 
         return (
             <section id="about">
@@ -40,8 +40,8 @@ class About extends Component {
                                 <h2>Contact Details</h2>
                                 <p className="address">
                                     <span>{name}</span><br/>
-                                    <span>{city}, {state}</span><br/>
-                                    <span>{phone}</span><br/>
+                                    
+                                    
                                     <span>{email}</span>
                                 </p>
                             </div>

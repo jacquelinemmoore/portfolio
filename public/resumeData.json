@@ -5,18 +5,18 @@
         "occupation": "biomedical engineer",
         "description": "a technical writer, a photographer, and a climber.",
         "image": "profilepic.jpg",
-        "bio": "I'm a second-year undergraduate student at the University of California, Davis, where I'm double-majoring in biomedical engineering and English.",
-        "listIntro": "To help you get to know me, I penned a list of important facts about myself:",
+        "bio": "Hi there! I'm Jacqueline, and I'm a third-year undergraduate student at the University of California, Davis. I plan to graduate in June of 2021 with two degrees: a B.S. in biomedical engineering and a B.A. in English.",
+        "listIntro": "I built this website because there's more to me than what's on my resume. Let's get started with a list of need-to-know facts about me:",
         "bioList": [
             "My favorite podcast is called 'No Such Thing As A Fish.'",
             "One of my personal goals is to climb Half Dome in Yosemite.",
-            "Another goal is to bake the perfect loaf of banana bread. (This has proven to be just as formidable as climbing Half Dome.)",
-            "I'm a huge San Francisco Giants fan! Every summer, I head to AT&T Park to watch baseball games with my dad.",
-            "My favorite book is Ian McEwan's 'Atonement.' My least favorite book is 'The Catcher in the Rye.'"
+            "Another goal is to bake the perfect loaf of banana bread. (It's harder than you think.)",
+            "If you asked me what my favorite book is, I'd say Ian McEwan's 'Atonement.'",
+            "My least favorite book is 'The Catcher in the Rye.' Change my mind!"
         ],
         "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
         "email": "jacmoore@ucdavis.edu",
-        "phone": "(650) 759-8154",
+        
         "address":
         {
             
@@ -59,65 +59,63 @@
             "school": "University of California, Davis",
             "degree": ["Biomedical Engineering (B.S.)","English (B.A.)"],
             "graduated": "December 2021",
-            "description": "BioInnovation Group (previously Synthetic Biology Club), Society of Women Engineers, The California Aggie (newspaper), Pre-Law Association, UC Davis Climbing Club."
+            "description": "Activities & Societies: BioInnovation Group (previously Synthetic Biology Club), Society of Women Engineers, The California Aggie (newspaper), Pre-Law Association, UC Davis Climbing Team."
         }
         ],
         "work": [
         {
 
           "company": "Salesforce",
-            "title": "Technical Writing Intern",
-            "years": "June 2019 - Present",
-            "description": "Composing user interface text for Einstein Analytics, Salesforce’s data analysis software. Also using Einstein Analytics to create interactive customer support resources."
+            "title": "Technical Writing Intern — Einstein Analytics",
+            "years": "June 2019 - September 2019",
+            "info": "Salesforce is a cloud-based customer relationship management service for businesses.",
+            "description": "Created customer-facing applet about specific features of Einstein Analytics, Salesforce's cloud-based data analysis software. The applet consists of instructional documentation, graphics, and interactive use cases built with Einstein Analytics."
          },
         {
 
           "company": "UC Davis BioInnovation Group",
-            "title": "Chief Content Officer & Microfluidics Team Lead",
-            "years": "January 2018 - Present",
-            "description": "As CCO, created new design, pages, and content for the company website. Revamping the onboarding process for new researchers. As Team Lead, currently co-leading the Microfluidics Team in building a cost-effective microfluidic chip reader. Previously a member of the Vegan Cheese team, which worked on synthesizing casein proteins in yeast."
+            "title": "Chief Content Officer",
+            "years": "March 2018 - Present",
+            "info": "BioInnovation Group is a biotech incubator that provides undergraduate students with technological and financial resources for autonomous research projects.",
+            "description": "Completely revamped company website by formulating a new site design, building new pages in the site, and creating written and visual content for these pages. Currently working on implementing a new, streamlined application process for all prospective researchers and team members."
          },
         {
             "company": "The California Aggie",
             "title": "Copy Editor",
             "years": "November 2017 – Present",
-            "description": "Using the AP Style Guide to proofread copy — generally 25 articles per week. Previously composed campus news stories — one article per week."
+            "info": "The California Aggie is UC Davis' official newspaper. The paper is staffed entirely by students.",
+            "description": "Proofreading copy — roughly 25 articles per week — using The Aggie's variation of the AP Style Guide. Previously served the paper as a campus news reporter, which involved composing one article per week and conducting relevant, in-person interviews."
         },
         {   
             "company": "remote.it",
             "title": "Technical Writing Intern",
             "years": "June 2018 - September 2018",
-            "description": "Wrote instructions for bulk scripts feature, edited technical documentation about application build-up, performed data analysis of user and site traffic with Google Analytics."
-        },
-        {
-            "company": "UC Davis CURE",
-            "title": "Researcher",
-            "years": "March 2018 – June 2018",
-            "description": "Created red fluorescent protein-expressing E. coli by cloning RFP gene in plasmid vector. Performed spectrophotometry tests, then analyzed data from those tests using qualitative and quantitative analyses."
+            "info": "remote.it (prounced 'remote it') is a remote device management software start-up.",
+            "description": "Wrote instructions for bulk scripts feature that were published in the company's github repository of user help documentation. Also revised technical documentation about newly-released features. Wrote copy for email campaigns about said new features."
         },
         {
             "company": "Fabbro, Moore & Associates, Inc.",
             "title": "Research Assistant",
             "years": "June 2014 – October 2018",
-            "description": "Wrote appraisal reports about valuations of clients' properties, conducted research into properties and local real estate markets, executive assistance (scheduling meetings, taking phone messages)."
+            "description": ""
         },
         {
             "company": "Palo Alto Housing Corporation",
             "title": "Marketing Intern",
             "years": "June 2016 – August 2016",
-            "description": "Launched client interview protocol for company outreach project, composed news briefs about company's property acquisitions."
+            "description": ""
         },
         {
             "company": "The Stanford Daily",
             "title": "Intern Reporter",
             "years": "June 2016 – August 2016",
-            "description": "Penned news articles about campus events and faculty, interviewed Stanford faculty to gather information for articles."
+            "description": ""
         },
         {
             "company": "The Arthur Morgan Institute for Community Solutions",
             "title": "Research Intern",
             "years": "June 2015 – June 2015",
-            "description": "Conducted research into the Keystone XL Pipeline to assist other interns in writing a grant about tar sands oil pipelines. Helped revamp the company’s website, communitysolution.org. (The site  has since been updated.)"
+            "description": ""
         }],
         "skills": [
         {
@@ -153,16 +151,16 @@
     {
         "projects": [
         {
+            "title": "MANUAL: Guide to building tables with Einstein Analytics (not yet deployed)",
+            "category": "Technical Writing",
+            "image": "learning adventure app.jpg",
+            "url": "https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3A00000DoLB3UAN"
+        },
+        {
             "title": "MANUAL: Bulk Scripting with remote.it",
             "category": "Technical Writing",
             "image": "bulk scripting.jpg",
-            "url": "https://github.com/remoteit/documentation/blob/master/remote.it%20Bulk%20Scripting.pdf"
-        },
-        {
-            "title": "MANUAL: Adding Raspberry Pi to remote.it",
-            "category": "Technical Writing",
-            "image": "pi.jpg",
-            "url": "https://github.com/remoteit/documentation/blob/master/Getting%20Started%20with%20Raspberry%20Pi.pdf"
+            "url": "https://github.com/remoteit/docs/blob/master/guides/remote.it%20Bulk%20Scripting.pdf"
         },
         {
             "title": "COPY: remote.it email update for new feature",
