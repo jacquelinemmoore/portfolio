@@ -28,7 +28,7 @@
         
         {
             "name": "linkedin",
-            "url": "https://www.linkedin.com/in/jacquelinemoore99/",
+            "url": "https://www.linkedin.com/in/jacquelinemoore99?trk=people-guest_profile-result-card_result-card_full-click",
             "className": "fa fa-linkedin"
         },        
 
@@ -48,6 +48,11 @@
             "name": "twitter",
             "url": "https://twitter.com/jackymmoore",
             "className": "fa fa-twitter"
+        },
+    {
+            "name": "flask",
+            "url": "https://bigucd.com/jacqueline-moore",
+            "className": "fa fa-flask"
         }]
     },
 
@@ -58,8 +63,8 @@
         {
             "school": "University of California, Davis",
             "degree": ["Biomedical Engineering (B.S.)","English (B.A.)"],
-            "graduated": "December 2021",
-            "description": "Activities & Societies: BioInnovation Group (previously Synthetic Biology Club), Society of Women Engineers, The California Aggie (newspaper), Pre-Law Association, UC Davis Climbing Team."
+            "graduated": "June 2021",
+            "description": "Activities & Societies: Davis Women in Business, Women Techmakers, Society of Women Engineers, The California Aggie, BioInnovation Group, UC Davis Pre-Law Association."
         }
         ],
         "work": [
@@ -77,7 +82,7 @@
             "title": "Chief Content Officer",
             "years": "March 2018 - Present",
             "info": "BioInnovation Group is a biotech incubator that provides undergraduate students with technological and financial resources for autonomous research projects.",
-            "description": "Completely revamped company website by formulating a new site design, building new pages in the site, and creating written and visual content for these pages. Currently working on implementing a new, streamlined application process for all prospective researchers and team members."
+            "description": "Completely revamped company website (bigucd.com) by formulating a new site design, building new pages in the site, and creating written and visual content for these pages. Currently working on implementing a new, streamlined application process for all prospective researchers and team members."
          },
         {
             "company": "The California Aggie",
@@ -94,16 +99,11 @@
             "description": "Wrote instructions for bulk scripts feature that were published in the company's github repository of user help documentation. Also revised technical documentation about newly-released features. Wrote copy for email campaigns about said new features."
         },
         {
-            "company": "Fabbro, Moore & Associates, Inc.",
-            "title": "Research Assistant",
-            "years": "June 2014 – October 2018",
-            "description": ""
-        },
-        {
-            "company": "Palo Alto Housing Corporation",
+            "company": "Palo Alto Housing",
             "title": "Marketing Intern",
             "years": "June 2016 – August 2016",
-            "description": ""
+            "info": "Palo Alto Housing is a nonprofit that provides affordable housing for the Palo Alto community.",
+            "description": "Launched client interview protocol for company outreach project. This involved conducting interviews of clients, then writing personal profile stories about interviewees. Also designed print and digital pamphlets to publicize company events and introduce prospective clients to the company and its values."
         },
         {
             "company": "The Stanford Daily",
