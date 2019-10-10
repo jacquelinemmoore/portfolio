@@ -150,17 +150,18 @@
     "portfolio":
     {
         "projects": [
-        {
-            "title": "MANUAL: Guide to building tables with Einstein Analytics (not yet deployed)",
-            "category": "Technical Writing",
-            "image": "learning adventure app.jpg",
-            "url": "https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3A00000DoLB3UAN"
-        },
+        
         {
             "title": "MANUAL: Bulk Scripting with remote.it",
             "category": "Technical Writing",
             "image": "bulk scripting.jpg",
             "url": "https://github.com/remoteit/docs/blob/master/guides/remote.it%20Bulk%20Scripting.pdf"
+        },
+        {
+            "title": "MANUAL: Guide to building tables with Einstein Analytics (not yet deployed)",
+            "category": "Technical/Content Writing",
+            "image": "learning adventure app.jpg",
+            "url": "https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3A00000DoLB3UAN"
         },
         {
             "title": "COPY: remote.it email update for new feature",
