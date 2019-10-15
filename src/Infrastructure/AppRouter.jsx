@@ -12,7 +12,7 @@ export class AppRouter extends React.Component {
             <div>
                 <HashRouter>
                     <Switch>
-                        <Route key="home" exact path="/">
+                        <Route key="home" path="/">
                             <App/>
                         </Route>
                     </Switch>
