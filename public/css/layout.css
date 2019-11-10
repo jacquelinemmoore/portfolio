@@ -141,7 +141,7 @@ header .scrolldown a:hover { color: #11ABB0; }
    top: 0;
 }
 
-@media only screen and (max-width: 1024px) {
+@media only screen and (max-width: 767px) {
    ul#nav li a {
       color: #fff !important;
    }
