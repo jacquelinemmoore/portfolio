@@ -79,7 +79,7 @@
         {
 
           "company": "UC Davis BioInnovation Group",
-            "title": "Chief Content Officer",
+            "title": "Vice President of Outreach and Content Strategy",
             "years": "March 2018 - Present",
             "info": "BioInnovation Group is a biotech incubator that provides undergraduate students with technological and financial resources for autonomous research projects.",
             "description": "Completely revamped company website (bigucd.com) by formulating a new site design, building new pages in the site, and creating written and visual content for these pages. Currently working on implementing a new, streamlined application process for all prospective researchers and team members."
@@ -117,6 +117,26 @@
             "years": "June 2015 – June 2015",
             "description": ""
         }],
+
+        "education": [
+        {
+            "school": "University of California, Davis",
+            "degree": ["Biomedical Engineering (B.S.)","English (B.A.)"],
+            "graduated": "June 2021",
+            "description": "Activities & Societies: Davis Women in Business, Women Techmakers, Society of Women Engineers, The California Aggie, BioInnovation Group, UC Davis Pre-Law Association."
+        }
+        ],
+        
+ 		"activities": [
+        {
+
+          "company": "Salesforce",
+            "title": "Technical Writing Intern — Einstein Analytics",
+            "years": "June 2019 - September 2019",
+            "info": "Salesforce is a cloud-based customer relationship management service for businesses.",
+            "description": "Created customer-facing applet about specific features of Einstein Analytics, Salesforce's cloud-based data analysis software. The applet consists of instructional documentation, graphics, and interactive use cases built with Einstein Analytics."
+        }],
+
         "skills": [
         {
             "name": "climbing",

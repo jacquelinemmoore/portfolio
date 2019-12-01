@@ -34,7 +34,7 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background: #161415 url(../images/header-background.jpg) no-repeat top center;
+   background: #161415 url(../images/header-background.jpg) no-repeat 64.5% 74%;
    background-size: cover !important;
    -webkit-background-size: cover !important;
    text-align: center;
@@ -279,7 +279,7 @@ ul#nav li.current a { color: #F06000 !important; }
 #resume .header-col { padding-top: 9px; }
 #resume .main-col { padding-right: 10%; }
 
-.education {
+.education, .work {
    margin-bottom: 48px;
    padding-bottom: 24px;
    border-bottom: 1px solid #E8E8E8;
