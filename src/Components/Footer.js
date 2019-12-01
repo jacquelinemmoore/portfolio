@@ -6,7 +6,7 @@ class Footer extends Component {
 
         if (this.props.data) {
             var networks = this.props.data.social.map(network =>
-                <NetworkIcon name={network.name} url={network.url} className={network.className}/>
+                <NetworkIcon key={network.name} name={network.name} url={network.url} className={network.className}/>
             )
         }
 

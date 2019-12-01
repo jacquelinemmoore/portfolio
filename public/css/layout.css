@@ -34,7 +34,7 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background: #161415 url(../images/header-background.jpg) no-repeat 64.5% 74%;
+   background: #161415 url(../images/header-background.jpg) no-repeat 64% 74%;
    background-size: cover !important;
    -webkit-background-size: cover !important;
    text-align: center;
@@ -141,7 +141,7 @@ header .scrolldown a:hover { color: #11ABB0; }
    top: 0;
 }
 
-@media only screen and (max-width: 1024px) {
+@media only screen and (max-width: 767px) {
    ul#nav li a {
       color: #fff !important;
    }
