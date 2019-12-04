@@ -3,10 +3,10 @@
     {
         "name": "Jacqueline Moore",
         "occupation": "biomedical engineer",
-        "description": "a technical writer, a photographer, and a climber.",
+        "description": "a writer, a photographer, and a climber.",
         "image": "profilepic.jpg",
-        "bio": "Hi there! I'm Jacqueline, and I'm a third-year undergraduate student at the University of California, Davis. I plan to graduate in June of 2021 with two degrees: a B.S. in biomedical engineering and a B.A. in English.",
-        "listIntro": "I built this website because there's more to me than what's on my resume. Let's get started with a list of need-to-know facts about me:",
+        "bio": "I'm Jacqueline, and I'm a third-year undergraduate student at the University of California, Davis. I plan to graduate in June of 2021 with two degrees: a B.S. in biomedical engineering and a B.A. in English.",
+        "listIntro": "I built this website because there's more to me than what's on my resume. I'd like to introduce myself with a list of need-to-know facts about me:",
         "bioList": [
             "My favorite podcast is called 'No Such Thing As A Fish.'",
             "One of my personal goals is to climb Half Dome in Yosemite.",
@@ -64,7 +64,7 @@
             "school": "University of California, Davis",
             "degree": ["Biomedical Engineering (B.S.)","English (B.A.)"],
             "graduated": "June 2021",
-            "description": "Activities & Societies: Davis Women in Business, Women Techmakers, Society of Women Engineers, The California Aggie, BioInnovation Group, UC Davis Pre-Law Association."
+            "description": "Upper Division Coursework: Engineering Problem Solving with MATLAB, Statistics in Biomedical Engineering, Biomedical Engineering Special Study (Research), Human Physiology, British Romantic Literature."
         }
         ],
         "work": [
@@ -73,37 +73,22 @@
           "company": "Salesforce",
             "title": "Technical Writing Intern — Einstein Analytics",
             "years": "June 2019 - September 2019",
-            "info": "Salesforce is a cloud-based customer relationship management service for businesses.",
-            "description": "Created customer-facing applet about specific features of Einstein Analytics, Salesforce's cloud-based data analysis software. The applet consists of instructional documentation, graphics, and interactive use cases built with Einstein Analytics."
+            "info": "",
+            "description": "Built out the Einstein Analytics Learning Adventure App, an interactive program that teaches customers how to use Einstein Analytics (Salesforce's data analysis software). Wrote content for the app that introduces specific features to users, and also created in-app, interactive use cases based on sample datasets."
          },
-        {
-
-          "company": "UC Davis BioInnovation Group",
-            "title": "Vice President of Outreach and Content Strategy",
-            "years": "March 2018 - Present",
-            "info": "BioInnovation Group is a biotech incubator that provides undergraduate students with technological and financial resources for autonomous research projects.",
-            "description": "Completely revamped company website (bigucd.com) by formulating a new site design, building new pages in the site, and creating written and visual content for these pages. Currently working on implementing a new, streamlined application process for all prospective researchers and team members."
-         },
-        {
-            "company": "The California Aggie",
-            "title": "Copy Editor",
-            "years": "November 2017 – Present",
-            "info": "The California Aggie is UC Davis' official newspaper. The paper is staffed entirely by students.",
-            "description": "Proofreading copy — roughly 25 articles per week — using The Aggie's variation of the AP Style Guide. Previously served the paper as a campus news reporter, which involved composing one article per week and conducting relevant, in-person interviews."
-        },
         {   
             "company": "remote.it",
             "title": "Technical Writing Intern",
             "years": "June 2018 - September 2018",
-            "info": "remote.it (prounced 'remote it') is a remote device management software start-up.",
-            "description": "Wrote instructions for bulk scripts feature that were published in the company's github repository of user help documentation. Also revised technical documentation about newly-released features. Wrote copy for email campaigns about said new features."
+            "info": "",
+            "description": "Collaborated with software engineering interns to write a user manual for a new bulk scripting feature. Additionally revised technical manuals about newly-released features. Wrote copy for email campaigns about company updates and new features for users."
         },
         {
             "company": "Palo Alto Housing",
             "title": "Marketing Intern",
             "years": "June 2016 – August 2016",
-            "info": "Palo Alto Housing is a nonprofit that provides affordable housing for the Palo Alto community.",
-            "description": "Launched client interview protocol for company outreach project. This involved conducting interviews of clients, then writing personal profile stories about interviewees. Also designed print and digital pamphlets to publicize company events and introduce prospective clients to the company and its values."
+            "info": "",
+            "description": "Launched client interview protocol for community outreach project. Conducted interviews of clients, then wrote personal profiles about interviewees. Also designed and wrote content for digital pamphlets to publicize company events."
         },
         {
             "company": "The Stanford Daily",
@@ -117,54 +102,51 @@
             "years": "June 2015 – June 2015",
             "description": ""
         }],
-
-        "education": [
+ 		"activities": [
+         {
+          "company": "UC Davis BioInnovation Group",
+            "title": "Microfluidics Team Lead",
+            "years": "September 2019 - Present",
+            "info": "",
+            "description": "Leading an 8-person research team in constructing two cost-efficient microfluidic controllers for RNA sequencing. Also collaborating with teammates to design and build microfluidic chips using AutoCAD and UV exposure systems (for low-cost photolithography)."
+         },
+         {
+          "company": "UC Davis BioInnovation Group",
+            "title": "Vice President of Outreach and Content Strategy",
+            "years": "March 2019 - Present",
+            "info": "",
+            "description": "Building company website (bigucd.com) by writing new content, creating webpages, and developing site navigation structure. Composing monthly newsletters detailing the progress of research teams as well as updates about interns and student lab managers."
+         },
+         {
+            "company": "The California Aggie",
+            "title": "Copy Editor",
+            "years": "March 2018 – Present",
+            "info": "",
+            "description": "Proofreading copy — roughly 25 articles per week — using The Aggie's variation of the AP Style Guide. Previously served the paper as a campus news reporter, which involved composing one article per week and conducting relevant, in-person interviews."
+        },
         {
-            "school": "University of California, Davis",
-            "degree": ["Biomedical Engineering (B.S.)","English (B.A.)"],
-            "graduated": "June 2021",
-            "description": "Activities & Societies: Davis Women in Business, Women Techmakers, Society of Women Engineers, The California Aggie, BioInnovation Group, UC Davis Pre-Law Association."
+            "company": "Davis Women in Business",
+            "title": "General Associate",
+            "years": "October 2019 – Present",
+            "info": ""
+        },
+        {
+            "company": "Women Techmakers",
+            "title": "Member",
+            "years": "January 2019 – Present",
+            "info": ""
+        },
+        {
+                "company": "BioInnovation Group",
+                "title": "Microfluidics Researcher",
+                "years": "January 2018 – June 2019",
+                "info": "Collaborated with teammates to work on the Real Vegan Cheese project (synthesizing casein proteins to develop vegan cheese), then shifted to join the Microfluidics team."
         }
         ],
-        
- 		"activities": [
-        {
-
-          "company": "Salesforce",
-            "title": "Technical Writing Intern — Einstein Analytics",
-            "years": "June 2019 - September 2019",
-            "info": "Salesforce is a cloud-based customer relationship management service for businesses.",
-            "description": "Created customer-facing applet about specific features of Einstein Analytics, Salesforce's cloud-based data analysis software. The applet consists of instructional documentation, graphics, and interactive use cases built with Einstein Analytics."
-        }],
-
         "skills": [
         {
             "name": "climbing",
             "level": "60%"
-        },
-        {
-            "name": "eating",
-            "level": "55%"
-        },
-        {
-            "name": "ReactJs",
-            "level": "50%"
-        },
-        {
-            "name": "CSS",
-            "level": "90%"
-        },
-        {
-            "name": "HTML5",
-            "level": "80%"
-        },
-        {
-            "name": "VueJs",
-            "level": "50%"
-        },
-        {
-            "name": "MongoDB",
-            "level": "80%"
         }]
     },
     "portfolio":
