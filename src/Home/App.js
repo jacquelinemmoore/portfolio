@@ -9,7 +9,7 @@ import Resume from '../Components/Resume';
 import Portfolio from '../Components/Portfolio';
 import {ImageGallery} from "../Components/ImageGallery";
 
-class App extends Component {
+export class App extends Component {
 
     constructor(props) {
         super(props);
