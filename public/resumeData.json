@@ -5,14 +5,14 @@
         "occupation": "biomedical engineer",
         "description": "a writer, a photographer, and a climber.",
         "image": "profilepic.jpg",
-        "bio": "I'm Jacqueline, and I'm a third-year undergraduate student at the University of California, Davis. I plan to graduate in June of 2021 with two degrees: a B.S. in biomedical engineering and a B.A. in English.",
-        "listIntro": "I built this website because there's more to me than what's on my resume. I'd like to introduce myself with a list of need-to-know facts about me:",
+        "bio": "I'm Jacqueline, and I'm a third-year undergraduate student at the University of California, Davis. I plan to graduate in December of 2021 with two degrees: a B.S. in biomedical engineering and a B.A. in English.",
+        "listIntro": "I built this website because there's more to me than what's on my resume. Let's get started with a list of need-to-know facts about me:",
         "bioList": [
             "My favorite podcast is called 'No Such Thing As A Fish.'",
             "One of my personal goals is to climb Half Dome in Yosemite.",
             "Another goal is to bake the perfect loaf of banana bread. (It's harder than you think.)",
-            "If you asked me what my favorite book is, I'd say Ian McEwan's 'Atonement.'",
-            "My least favorite book is 'The Catcher in the Rye.' Change my mind!"
+            "If I had to name my favorite book, I'd say Ian McEwan's 'Atonement.'",
+            "My least favorite book is 'The Catcher in the Rye.'"
         ],
         "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
         "email": "jacmoore@ucdavis.edu",

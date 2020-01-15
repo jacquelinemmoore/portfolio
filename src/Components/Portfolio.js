@@ -36,6 +36,9 @@ class Portfolio extends Component {
                     <div id="portfolio-wrapper" className={`${columnClassName} s-bgrid-thirds cf`}>
                         {projects}
                     </div>
+                    <div id="portfolio-wrapper" className={`${columnClassName} s-bgrid-thirds cf`}>
+                                            {projects}
+                                        </div>
                 </div>
             </div>
         );
