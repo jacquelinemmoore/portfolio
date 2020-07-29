@@ -36,20 +36,18 @@ class About extends Component {
                                     : null}
                         </ol>
                         <div className="row">
-                            <div className="columns contact-details">
-                                <h2>Contact Details</h2>
-                                <p className="address">
-                                    <span>{name}</span><br/>
-                                    
-                                    
-                                    <span>{email}</span>
-                                </p>
-                            </div>
                             <div className="columns download">
                                 <p>
                                     <a href="Jacqueline Moore Resume.pdf" className="button" download>
                                         <i className="fa fa-download"/>Download Resume
                                     </a>
+                                    <a href="mailto:jacmoore@ucdavis.edu" className="button" download>
+                                        <i className="fa fa-envelope"/>Contact Me
+                                    </a>
+                                </p>
+                            </div>
+                            <div className="columns download">
+                                <p>
                                 </p>
                             </div>
                         </div>

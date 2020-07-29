@@ -5,12 +5,12 @@ class Portfolio extends Component {
 
         if (this.props.data) {
 
-            var columnClassName = (this.props.data.projects.length < 7 ||
-                this.props.data.projects.length === 9)
+            var columnClassName = (this.props.data.length < 7 ||
+                this.props.data.length === 9)
                     ? "bgrid-thirds"
                     : "bgrid-quarters";
 
-            var projects = this.props.data.projects.map(function (projects) {
+            var projects = this.props.data.map(function (projects) {
                 var projectImage = 'images/portfolio/' + projects.image;
                 return <div key={projects.title} className="columns portfolio-item">
                     <div className="item-wrap">
@@ -32,13 +32,10 @@ class Portfolio extends Component {
         return (
             <div className="portfolio row">
                 <div className="twelve columns collapsed">
-                    <h1>Read My Writing</h1>
+                    <h1>{this.props.title}</h1>
                     <div id="portfolio-wrapper" className={`${columnClassName} s-bgrid-thirds cf`}>
                         {projects}
                     </div>
-                    <div id="portfolio-wrapper" className={`${columnClassName} s-bgrid-thirds cf`}>
-                                            {projects}
-                                        </div>
                 </div>
             </div>
         );

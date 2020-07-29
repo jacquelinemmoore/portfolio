@@ -147,7 +147,7 @@ body {
    font-weight: normal;
    font-size: 15px;
    line-height: 30px;
-	color: #838C95;
+	color: #313131;
 
    -webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
 	-webkit-text-size-adjust: 100%;
@@ -181,7 +181,6 @@ p.lead {
 /* for 'em' and 'strong' tags, font-size and line-height should be same with
 the body tag due to rendering problems in some browsers */
 em { font: 15px/30px 'opensans-italic', sans-serif; }
-strong, b { font: 15px/30px 'opensans-bold', sans-serif; }
 small { font-size: 11px; line-height: inherit; }
 
 /*	Blockquotes */

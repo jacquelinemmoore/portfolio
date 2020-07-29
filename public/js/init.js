@@ -11,7 +11,7 @@ jQuery(document).ready(function ($) {
     ------------------------------------------------------ */
 
     setTimeout(function () {
-        $('h1.responsive-headline').fitText(1, {minFontSize: '40px', maxFontSize: '90px'});
+        $('h1.responsive-headline').fitText(1, {minFontSize: '40px', maxFontSize: '65`px'});
     }, 100);
 
 
@@ -69,9 +69,8 @@ jQuery(document).ready(function ($) {
     $(window).on('resize', function () {
 
         $('header').css({'height': $(window).height()});
-        $('body').css({'width': $(window).width()})
+        $('body').css({'width': '100vw'})
     });
-
 
     /*----------------------------------------------------*/
     /*	Fade In/Out Primary Navigation

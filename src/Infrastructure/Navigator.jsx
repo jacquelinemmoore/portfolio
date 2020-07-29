@@ -10,9 +10,9 @@ export class Navigator extends React.Component {
 
             <ul id="nav" className="nav">
                 <li className="current"><a className="nav-item smoothscroll" href="#home">Home</a></li>
-                <li><a className="nav-item smoothscroll" href="#about">About</a></li>
                 <li><a className="nav-item smoothscroll" href="#resume">Resume</a></li>
                 <li><a className="nav-item smoothscroll" href="#portfolio">Portfolio</a></li>
+                <li><a className="nav-item smoothscroll" href="#about">About</a></li>
                 {/*<li><a className="nav-item smoothscroll" href="#testimonials">Testimonials</a></li>*/}
                 {/*<li><a className="nav-item smoothscroll" href="#contact">Contact</a></li>*/}
             </ul>

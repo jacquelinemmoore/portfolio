@@ -37,7 +37,7 @@ header {
    background: #161415 url(../images/header-background.jpg) no-repeat 64% 74%;
    background-size: cover !important;
    -webkit-background-size: cover !important;
-   text-align: center;
+   text-align: left;
    overflow: hidden;
 }
 
@@ -51,10 +51,10 @@ header:before {
 header .banner {
    display: inline-block;
    vertical-align: middle;
-   margin: 0 auto;
    width: 85%;
+   padding-left: 90px;
    padding-bottom: 30px;
-   text-align: center;
+   text-align: left;
 }
 
 header .banner-text { width: 100%; }
@@ -62,15 +62,16 @@ header .banner-text h1 {
    font: 90px/1.1em 'opensans-bold', sans-serif;
    color: #000000;
    letter-spacing: -2px;
+   padding-bottom: 20px;
    margin: 0 auto 18px auto;
-   text-shadow: 0px 1px 3px rgba(0, 0, 0, .8);
+   text-shadow: 0px 0px 0px rgba(0, 0, 0, .8);
 }
 header .banner-text h3 {
-   font: 18px/1.9em 'librebaskerville-regular', serif;
-   color: #5b5b5b;
-   margin: 0 auto;
+   font: 18px/1.9em 'opensans', sans-serif;
+   color: #000000;
+   text-align: left;
    width: 70%;
-   text-shadow: 0px 1px 2px rgba(0, 0, 0, .5);
+   text-shadow: 0px 0px 0px rgba(0, 0, 0, .5);
 }
 header .banner-text h3 span,
 header .banner-text h3 a {
@@ -88,15 +89,18 @@ header .social {
    margin: 24px 0;
    padding: 0;
    font-size: 30px;
-   text-shadow: 0px 1px 2px rgba(0, 0, 0, .8);
+   text-shadow: 0px 0px 0px rgba(0, 0, 0, .8);
 }
 header .social li {
    display: inline-block;
    margin: 0 15px;
    padding: 0;
 }
-header .social li a { color: #fff; }
-header .social li a:hover { color: #11ABB0; }
+header .social li:first-child {
+   margin-left: 0;
+}
+header .social li a { color: #2C3345; }
+header .social li a:hover { color: #2480C4; }
 
 /* scrolldown link */
 header .scrolldown a {
@@ -104,7 +108,7 @@ header .scrolldown a {
    bottom: 30px;
    left: 50%;
    margin-left: -29px;
-   color: #fff;
+   color: #2C3345;
    display: block;
    height: 42px;
    width: 42px;
@@ -154,22 +158,24 @@ header .scrolldown a:hover { color: #11ABB0; }
 .opaque {
     background-color: #333;
     color: #fff !important;
+
 }
 
 /* hide toggle button */
 #nav-wrap > a.mobile-btn { display: none; }
 
 ul#nav {
-   min-height: 48px;
+   min-height: 56px;
    width: auto;
 
    /* center align the menu */
-   text-align: center;
+   text-align: right;
+   padding-right:40px;
 }
 ul#nav li {
    position: relative;
    list-style: none;
-   height: 48px;
+   height: 56px;
    display: inline-block;
 }
 
@@ -179,11 +185,11 @@ ul#nav li a {
 /* 8px padding top + 8px padding bottom + 32px line-height = 48px */
 
    display: inline-block;
-   padding: 8px 13px;
+   padding: 12px 25px;
    line-height: 32px;
 	text-decoration: none;
    text-align: left;
-   color: #2B2B2B;
+   color: #052334;
 
 	-webkit-transition: color .2s ease-in-out;
 	-moz-transition: color .2s ease-in-out;
@@ -193,7 +199,7 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: #F06000 !important; }
+ul#nav li.current a { color: #11ABB0 !important; }
 
 
 /* ------------------------------------------------------------------ */
@@ -231,16 +237,18 @@ ul#nav li.current a { color: #F06000 !important; }
 }
 #about .contact-details { width: 41.66667%; }
 #about .download {
-   width: 58.33333%;
    padding-top: 6px;
 }
 #about .main-col { padding-right: 5%; }
 #about .download .button {
    margin-top: 6px;
+   margin-right: 15px;
+   border-radius: 5px;
    background: #444;
+   display: inline-block;
 }
 #about .download .button:hover {
-   background: #fff;
+   background: #DEE1E6;
    color: #2B2B2B;
 }
 #about .download .button i {
@@ -254,13 +262,13 @@ ul#nav li.current a { color: #F06000 !important; }
 /* ------------------------------------------------------------------ */
 
 #resume {
-   background: #fff;
+   background: #ffffff;
    padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
 }
 
-#resume a, #resume a:visited  { color: #11ABB0; }
+#resume a, #resume a:visited  { color: #ffffff; }
 #resume a:hover, #resume a:focus { color: #313131; }
 
 #resume h1 {
@@ -285,8 +293,8 @@ ul#nav li.current a { color: #F06000 !important; }
    border-bottom: 1px solid #E8E8E8;
 }
 #resume .info {
-   font: 16px/24px 'librebaskerville-italic', serif;
-   color: #6E7881;
+   font: 16px/24px 'opensans-semibold', serif;
+   color: #313131;
    margin-bottom: 18px;
    margin-top: 9px;
 }
@@ -455,7 +463,7 @@ ul#nav li.current a { color: #F06000 !important; }
    letter-spacing: 1px;
    text-align: center;
    margin-bottom: 48px;
-   color: #95A3A3;
+   color: #313131;
 }
 
 /* Portfolio Content */

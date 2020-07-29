@@ -48,14 +48,19 @@ export class App extends Component {
         return (
             <div className="App">
                 <Header data={this.state.resumeData.main}/>
-                <About data={this.state.resumeData.main}/>
                 <Resume data={this.state.resumeData.resume}/>
                 <section id="portfolio">
-                    <div className="row">
-                        <Portfolio data={this.state.resumeData.portfolio}/>
-                    </div>
-                    <ImageGallery/>
+                    {this.state.resumeData.portfolio ?
+                        <div className="row">
+                            <Portfolio title={"Writing Samples"} data={this.state.resumeData.portfolio.writing}/>
+                            <Portfolio title={"Projects"} data={this.state.resumeData.portfolio.projectmgmt}/>
+                            <Portfolio title={"Designs"} data={this.state.resumeData.portfolio.designs}/>
+                        </div>
+                    : null }
+                    {/*<ImageGallery/>*/}
                 </section>
+                <About data={this.state.resumeData.main}/>
+
                 {/*<Testimonials data={this.state.resumeData.testimonials}/>*/}
                 {/*<Contact data={this.state.resumeData.main}/>*/}
                 <Footer data={this.state.resumeData.main}/>

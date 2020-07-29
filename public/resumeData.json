@@ -5,14 +5,14 @@
         "occupation": "biomedical engineer",
         "description": "a writer, a photographer, and a climber.",
         "image": "profilepic.jpg",
-        "bio": "I'm Jacqueline, and I'm a third-year undergraduate student at the University of California, Davis. I plan to graduate in December of 2021 with two degrees: a B.S. in biomedical engineering and a B.A. in English.",
-        "listIntro": "I built this website because there's more to me than what's on my resume. Let's get started with a list of need-to-know facts about me:",
+        "bio": "I plan to graduate from UC Davis in June of 2021 with a B.S. in biomedical engineering and a minor in English. I'm interested in applying my unique academic background and previous internship experience to expand my technical writing and project management skills.",
+        "listIntro": "But there's more to me than my resume. You might be interested to know that:",
         "bioList": [
             "My favorite podcast is called 'No Such Thing As A Fish.'",
-            "One of my personal goals is to climb Half Dome in Yosemite.",
-            "Another goal is to bake the perfect loaf of banana bread. (It's harder than you think.)",
-            "If I had to name my favorite book, I'd say Ian McEwan's 'Atonement.'",
-            "My least favorite book is 'The Catcher in the Rye.'"
+            "One of my personal goals is to complete a wintertime summit of Mount Shasta.",
+            "Another goal is to bake the perfect loaf of banana bread.",
+            "If I had to choose my favorite book, I'd pick Ian McEwan's 'Atonement.'",
+            "The worst book I've ever read is 'The Catcher in the Rye.'"
         ],
         "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
         "email": "jacmoore@ucdavis.edu",
@@ -58,112 +58,81 @@
 
     "resume":
     {
-        "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+        "skillmessage": "",
         "education": [
         {
             "school": "University of California, Davis",
-            "degree": ["Biomedical Engineering (B.S.)","English (B.A.)"],
-            "graduated": "June 2021",
-            "description": "Upper Division Coursework: Engineering Problem Solving with MATLAB, Statistics in Biomedical Engineering, Biomedical Engineering Special Study (Research), Human Physiology, British Romantic Literature."
+            "degree": ["Biomedical Engineering (B.S.), Minor in English"],
+            "graduated": "September 2017 - June 2021",
+            "description": "College of Engineering Dean's List, College of Letters and Science Dean's List."
         }
         ],
         "work": [
         {
-
+            "company": "Salesforce",
+            "title": "Technical Writing Intern",
+            "years": "June 2020 - September 2020",
+            "description": "Leading the production of a user help video about a beta feature of Einstein Analytics. Drafting a proposal that defines methods and best practices for maintaining internal demo environments for technical writers."
+        },
+        {
+            "company": "AT&T",
+            "title": "Extern",
+            "years": "June 2020 – July 2020",
+            "description": "Attended virtual lectures and completed online exercises pertaining to project management and business communications. "
+        },
+        {
           "company": "Salesforce",
-            "title": "Technical Writing Intern — Einstein Analytics",
+            "title": "Technical Writing Intern",
             "years": "June 2019 - September 2019",
-            "info": "",
-            "description": "Built out the Einstein Analytics Learning Adventure App, an interactive program that teaches customers how to use Einstein Analytics (Salesforce's data analysis software). Wrote content for the app that introduces specific features to users, and also created in-app, interactive use cases based on sample datasets."
+            "description": "Drove the creation of an interactive module for a user-facing, instructional applet about key concepts of data analysis. Collaborated cross-team with technical writers, product managers, and developers to design and build the user interface."
          },
         {   
             "company": "remote.it",
             "title": "Technical Writing Intern",
             "years": "June 2018 - September 2018",
-            "info": "",
-            "description": "Collaborated with software engineering interns to write a user manual for a new bulk scripting feature. Additionally revised technical manuals about newly-released features. Wrote copy for email campaigns about company updates and new features for users."
+            "description": "Collaborated with software engineering interns to write and edit external software manuals. Drafted and designed email campaigns about newly-released features in HTML and CSS."
         },
         {
             "company": "Palo Alto Housing",
             "title": "Marketing Intern",
             "years": "June 2016 – August 2016",
-            "info": "",
-            "description": "Launched client interview protocol for community outreach project. Conducted interviews of clients, then wrote personal profiles about interviewees. Also designed and wrote content for digital pamphlets to publicize company events."
-        },
-        {
-            "company": "The Stanford Daily",
-            "title": "Intern Reporter",
-            "years": "June 2016 – August 2016",
-            "description": ""
-        },
-        {
-            "company": "The Arthur Morgan Institute for Community Solutions",
-            "title": "Research Intern",
-            "years": "June 2015 – June 2015",
-            "description": ""
+            "description": "Launched client interview protocol for self-driven community outreach project. Conducted interviews of clients, then wrote personal profiles about interviewees."
         }],
  		"activities": [
          {
-          "company": "UC Davis BioInnovation Group",
+          "company": "BioInnovation Group",
             "title": "Microfluidics Team Lead",
             "years": "September 2019 - Present",
-            "info": "",
-            "description": "Leading an 8-person research team in constructing two cost-efficient microfluidic controllers for RNA sequencing. Also collaborating with teammates to design and build microfluidic chips using AutoCAD and UV exposure systems (for low-cost photolithography)."
+            "description": "Co-leading a 10-person research team in constructing two cost-efficient microfluidic controllers for RNA sequencing. Also collaborating with teammates to design and build microfluidic chips using AutoCAD and UV exposure systems (for low-cost photolithography)."
          },
          {
-          "company": "UC Davis BioInnovation Group",
+          "company": "BioInnovation Group",
             "title": "Vice President of Outreach and Content Strategy",
             "years": "March 2019 - Present",
-            "info": "",
-            "description": "Building company website (bigucd.com) by writing new content, creating webpages, and developing site navigation structure. Composing monthly newsletters detailing the progress of research teams as well as updates about interns and student lab managers."
+            "description": "Designing and building the organization's website using Figma and Squarespace. Spearheading the creation and release of monthly newsletters that detail research teams' progress, share news for students, and highlight specific members of the organization."
          },
          {
             "company": "The California Aggie",
             "title": "Copy Editor",
             "years": "March 2018 – Present",
-            "info": "",
             "description": "Proofreading copy — roughly 25 articles per week — using The Aggie's variation of the AP Style Guide. Previously served the paper as a campus news reporter, which involved composing one article per week and conducting relevant, in-person interviews."
-        },
-        {
-            "company": "Davis Women in Business",
-            "title": "General Associate",
-            "years": "October 2019 – Present",
-            "info": ""
-        },
-        {
-            "company": "Women Techmakers",
-            "title": "Member",
-            "years": "January 2019 – Present",
-            "info": ""
-        },
-        {
-                "company": "BioInnovation Group",
-                "title": "Microfluidics Researcher",
-                "years": "January 2018 – June 2019",
-                "info": "Collaborated with teammates to work on the Real Vegan Cheese project (synthesizing casein proteins to develop vegan cheese), then shifted to join the Microfluidics team."
         }
         ],
         "skills": [
         {
-            "name": "climbing",
-            "level": "60%"
+            "name": "",
+            "level": ""
         }]
     },
     "portfolio":
     {
-        "projects": [
-        
+        "writing": [
+
         {
-            "title": "MANUAL: Bulk Scripting with remote.it",
+            "title": "MANUAL: Bulk scripting in remote.it",
             "category": "Technical Writing",
             "image": "bulk scripting.jpg",
             "url": "https://github.com/remoteit/docs/blob/master/guides/remote.it%20Bulk%20Scripting.pdf"
-        },
-        {
-            "title": "MANUAL: Guide to building tables with Einstein Analytics (not yet deployed)",
-            "category": "Technical/Content Writing",
-            "image": "learning adventure app.jpg",
-            "url": "https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3A00000DoLB3UAN"
         },
         {
             "title": "COPY: remote.it email update for new feature",
@@ -172,22 +141,65 @@
             "url": "https://codepen.io/jacquelinemmoore/full/KxMJBr/"
         },
         {
-            "title": "LAB REPORT: RFP Expression in Plasmids",
+            "title": "ESSAY: Training a convolutional neural network to identify circulating tumor cells",
             "category": "Scientific Writing",
-            "image": "cure.jpg",
-            "url": "https://docs.google.com/document/d/1S82H29yQjLJBKyRbRyPatfj3d7z4l9HYYHGGBSnhT4Y/edit?usp=sharing"
+            "image": "cnn paper.png",
+            "url": "https://docs.google.com/document/d/1zJf2fwy8fKkQvEUJW7ItSJBojKt3gQx0Ikq1UIZDjdE/edit?usp=sharing/"
         },
         {
             "title": "ARTICLE: Neurobiological breakthrough at Stanford",
             "category": "Scientific/Journalistic Writing",
             "image": "neurobiology.jpg",
-            "url": "https://www.stanforddaily.com/2016/07/27/researchers-partially-restore-vision-in-mice/" 
+            "url": "https://www.stanforddaily.com/2016/07/27/researchers-partially-restore-vision-in-mice/"
+        },
+        {
+            "title": "ARTICLE: Coverage of lecture delivered by visiting law professor",
+            "category": "Journalistic Writing",
+            "image": "legal professor.png",
+            "url": "https://theaggie.org/2018/03/06/duke-law-professor-presents-lecture-voting-rights-law/"
         },
         {
             "title": "ARTICLE: UC Davis Guggenheim Fellows",
             "category": "Journalistic Writing",
             "image": "guggenheim.jpg",
             "url": "https://theaggie.org/2018/04/26/three-uc-davis-faculty-named-guggenheim-fellows/"   
+        }],
+
+        "projectmgmt": [
+
+        {
+            "title": "Construction of low-cost microfluidic controllers",
+            "category": "Hardware",
+            "image": "microfluidics presentation.png",
+            "url": "https://bigucd.com/microfluidics"
+        },
+        {
+            "title": "Applet instructing users about data analysis with tables in Einstein Analytics",
+            "category": "Software, Technical writing",
+            "image": "learning adventure app.jpg",
+            "url": "https://drive.google.com/file/d/1AtnxDXhxp99WFxOo6Ot3iyXYJCl1WQ_I/view?usp=sharing"
+        }
+        ],
+
+        "designs": [
+
+        {
+            "title": "Prototype submitted to the 2020 Airbnb + Adobe Creative Jam",
+            "category": "App",
+            "image": "creative jam prototype.jpg",
+            "url": "https://xd.adobe.com/view/98b3ebc2-3d1c-419a-6c66-6dbaf60da6b6-ee82/?fullscreen"
+        },
+        {
+            "title": "Website designed and built for BioInnovation Group",
+            "category": "Website",
+            "image": "bioinnovation group site.png",
+            "url": "https://bigucd.com"
+        },
+        {
+            "title": "Digital newsletters designed and created for BioInnovation Group",
+            "category": "Digital Content",
+            "image": "bioinnovation group newsletter.png",
+            "url": "https://codepen.io/jacquelinemmoore/full/RwWeMzW"
         }]
     },
     "testimonials":

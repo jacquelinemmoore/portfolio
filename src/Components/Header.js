@@ -20,10 +20,10 @@ class Header extends Component {
 
                 <div className="row banner">
                     <div className="banner-text">
-                        <h1 className="responsive-headline">I'm {name}.</h1>
-                        <h3>I'm a <span>{occupation} </span> from {city}, California.</h3>
-                        <h3>I'm also {description}</h3>
-                        <h3>(That's me in the picture.)</h3>
+                        <h1 className="responsive-headline">Jacqueline Moore</h1>
+                        <h3><b>Biomedical engineering</b> student at UC Davis.</h3>
+                        <h3>Three-time <b>technical writing</b> intern.</h3>
+                        <h3>Dabbling in <b>project management</b>, <b>UX design</b>, and <b>ice climbing</b>.</h3>
                         <hr/>
                         <ul className="social">
                             {networks}
@@ -32,7 +32,7 @@ class Header extends Component {
                 </div>
 
                 <p className="scrolldown">
-                    <a className="smoothscroll" href="#about"><i className="icon-down-circle"></i></a>
+                    <a className="smoothscroll" href="#resume"><i className="icon-down-circle"></i></a>
                 </p>
 
             </header>
