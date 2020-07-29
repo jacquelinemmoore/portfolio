@@ -5,11 +5,11 @@ class Header extends Component {
     render() {
 
         if (this.props.data) {
-            var name = this.props.data.name;
-            var occupation = this.props.data.occupation;
+            //var name = this.props.data.name;
+            //var occupation = this.props.data.occupation;
             // var occupation2 = this.props.data.occupation2;
-            var description = this.props.data.description;
-            var city = this.props.data.address.city;
+            //var description = this.props.data.description;
+            //var city = this.props.data.address.city;
             var networks = this.props.data.social.map(network =>
                 <NetworkIcon key={network.name} name={network.name} url={network.url} className={network.className}/>
             )

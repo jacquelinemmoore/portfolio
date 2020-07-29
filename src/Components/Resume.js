@@ -20,14 +20,16 @@ class Resume extends Component {
 
 
             var work = this.props.data.work.map((work) => {
-                return <div key={work.company}><h3>{work.company}</h3>
+                var key = `${work.company} - ${work.years}`;
+                return <div key={key}><h3>{work.company}</h3>
                     <p className="info">{work.title}<span>&bull;</span> <em className="date">{work.years}</em></p>
                     <p>{work.description}</p>
                 </div>
             });
 
             var activities = this.props.data.activities.map(function (activity) {
-                return <div key={activity.company}><h3>{activity.company}</h3>
+                var key = `${activity.company} - ${activity.years}`;
+                return <div key={key}><h3>{activity.company}</h3>
                     <p className="info">{activity.title}<span>&bull;</span> <em className="date">{activity.years}</em></p>
                     <p>{activity.description}</p>
                 </div>
