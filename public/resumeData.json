@@ -28,7 +28,7 @@
         
         {
             "name": "linkedin",
-            "url": "https://www.linkedin.com/in/jacquelinemoore99?trk=people-guest_profile-result-card_result-card_full-click",
+            "url": "https://www.linkedin.com/in/jackymoore",
             "className": "fa fa-linkedin"
         },        
 
@@ -92,17 +92,11 @@
             "title": "Technical Writing Intern",
             "years": "June 2018 - September 2018",
             "description": "Composed user manuals directed at developers that describe how to implement new product features. Partnered with engineering interns to incorporate high-level use cases into product documentation."
-        },
-        {
-            "company": "Palo Alto Housing",
-            "title": "Marketing Intern",
-            "years": "June 2016 – August 2016",
-            "description": "Launched client interview protocol for self-driven community outreach project. Conducted interviews of clients, then wrote personal profiles about interviewees."
         }],
  		"activities": [
          {
           "company": "BioInnovation Group",
-            "title": "Microfluidics Team Lead",
+            "title": "Project Manager, Microfluidics",
             "years": "September 2019 - Present",
             "description": "Co-leading a 10-person research team in constructing two cost-efficient microfluidic controllers for RNA sequencing. Also collaborating with teammates to design and build microfluidic chips using AutoCAD and UV exposure systems (for low-cost photolithography)."
          },
@@ -130,37 +124,37 @@
         "writing": [
 
         {
-            "title": "SCRIPT: Prep Your Data with the Transform Node",
-            "category": "Technical Writing",
+            "title": "A video script that explains how to implement features of the new Einstein Analytics dataset editor.",
+            "category": "",
             "image": "script.png",
             "url": "https://drive.google.com/file/d/1BKRHSj9hATJAeU9bp7hTGIJqt4GPjLY2/view?usp=sharing"
         },
         {
-            "title": "MANUAL: Bulk scripting in remote.it",
-            "category": "Technical Writing",
+            "title": "A developer manual that demonstrates how to apply remote.it's bulk scripting tool.",
+            "category": "",
             "image": "bulk scripting.jpg",
             "url": "https://github.com/remoteit/docs/blob/master/guides/remote.it%20Bulk%20Scripting.pdf"
         },
         {
-            "title": "ESSAY: Training a convolutional neural network to identify circulating tumor cells",
-            "category": "Scientific Writing",
+            "title": "A sample from a technical essay that I wrote about deep learning. I adapted it for a non-technical audience.",
+            "category": "",
             "image": "cnn paper.png",
-            "url": "https://docs.google.com/document/d/1zJf2fwy8fKkQvEUJW7ItSJBojKt3gQx0Ikq1UIZDjdE/edit?usp=sharing/"
+            "url": "https://docs.google.com/document/d/1EDL_9mkyXJ2N5X8dYUsMuS6aV_rhhbwHYPW_qsQIHyk/edit?usp=sharing"
         },
         {
-            "title": "ARTICLE: Neurobiological breakthrough at Stanford",
-            "category": "Scientific/Journalistic Writing",
+            "title": "A news article that I wrote for The Stanford Daily as a reporting intern. This sparked my interest in biomedical science.",
+            "category": "",
             "image": "neurobiology.jpg",
             "url": "https://www.stanforddaily.com/2016/07/27/researchers-partially-restore-vision-in-mice/"
         },
         {
-            "title": "ARTICLE: Coverage of lecture delivered by visiting law professor",
+            "title": "A news article that I authored for The California Aggie. ",
             "category": "Journalistic Writing",
             "image": "legal professor.png",
             "url": "https://theaggie.org/2018/03/06/duke-law-professor-presents-lecture-voting-rights-law/"
         },
         {
-            "title": "ARTICLE: UC Davis Guggenheim Fellows",
+            "title": "A feature story that I composed for The California Aggie.",
             "category": "Journalistic Writing",
             "image": "guggenheim.jpg",
             "url": "https://theaggie.org/2018/04/26/three-uc-davis-faculty-named-guggenheim-fellows/"   
@@ -178,13 +172,13 @@
             "title": "Prep Your Data with the Transform Node",
             "category": "Software",
             "image": "transform node.png",
-            "url": "https://drive.google.com/file/d/13AEfHIPl9PuPxQgrEA6B7Gkg9MVl0AR-/view?usp=sharing"
+            "url": "http://play.vidyard.com/dbZ1ibEJJqvN7EkWTuTpNt?hide_html5_playlist=1&v=3.1.1&vyetoken=&type=inline&chapter=4&autoplay=1&"
         },
         {
             "title": "Einstein Analytics Learning Adventure App",
             "category": "Software",
             "image": "learning adventure app.jpg",
-            "url": "https://drive.google.com/file/d/1AtnxDXhxp99WFxOo6Ot3iyXYJCl1WQ_I/view?usp=sharing"
+            "url": "https://drive.google.com/file/d/1VjiWJnAkJd9lxOPeLTjrD1OMxjbJC21c/view?usp=sharing"
         }
         ],
 
