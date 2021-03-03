@@ -22,7 +22,7 @@ class Header extends Component {
                     <div className="banner-text">
                         <h1 className="responsive-headline">Jacqueline Moore</h1>
                         <h3><b>Biomedical engineering</b> student at UC Davis.</h3>
-                        <h3>Three-time <b>technical writing</b> intern.</h3>
+                        <h3>Incoming <b>technical writer</b> at Salesforce.</h3>
                         <h3>Dabbling in <b>project management</b>, <b>UX design</b>, and <b>ice climbing</b>.</h3>
                         <hr/>
                         <ul className="social">

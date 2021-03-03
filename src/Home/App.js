@@ -45,9 +45,9 @@ export class App extends Component {
                 <section id="portfolio">
                     {this.state.resumeData.portfolio ?
                         <div className="row">
-                            <Portfolio title={"Writing Samples"} data={this.state.resumeData.portfolio.writing}/>
-                            <Portfolio title={"Project Leadership"} data={this.state.resumeData.portfolio.projectmgmt}/>
-                            <Portfolio title={"Designs"} data={this.state.resumeData.portfolio.designs}/>
+                            <Portfolio title={"Writing"} data={this.state.resumeData.portfolio.writing}/>
+                            <Portfolio title={"Project Management"} data={this.state.resumeData.portfolio.projectmgmt}/>
+                            <Portfolio title={"UX Design"} data={this.state.resumeData.portfolio.designs}/>
                         </div>
                     : null }
                     {/*<ImageGallery/>*/}
